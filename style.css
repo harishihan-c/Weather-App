@@ -85,3 +85,12 @@
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather-container{
+    display:none;
+}
+
+.error{
+    margin-top:30px;
+    display:none;
+}
